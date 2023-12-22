@@ -1,4 +1,4 @@
-module github.com/airbusgeo/godal
+module github.com/weathersource/go-gdal
 
 go 1.21
 

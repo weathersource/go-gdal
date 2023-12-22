@@ -24,7 +24,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/airbusgeo/godal"
+	"github.com/weathersource/go-gdal"
 )
 
 func ExampleBand_IO() {
